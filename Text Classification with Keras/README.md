@@ -2,4 +2,4 @@ NLP binary classification with Keras The data is from the Toxic Comment Classifi
 
 We will work on classifying a large number of Wikipedia comments as being either toxic or not by training a 1D CNN for this task
 
-Used GloVe in m
+*Used GloVe
